@@ -4,6 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.sap.cloud.sample</groupId>
+	
   <artifactId>sdk-samples-parent</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
